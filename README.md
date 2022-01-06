@@ -5,4 +5,4 @@
 - [RR Tools](https://rr-tools.eu) (Angular)
 - [Banana Spleet](https://github.com/pbl0/banana_spleet) (Python)
 - [Lambda-rr](https://pbl0.github.io/lambda-rr/) (Jekyll)
-- Likrr Votes (dead) (Python flask) 
+- Likrr Votes (dead) (Python flask, selenium) 
