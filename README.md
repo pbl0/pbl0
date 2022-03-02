@@ -3,7 +3,7 @@
 ### Hobby projects
 - [My blog](https://hipihapa.netlify.com) (GatsbyJS/React)
 - [RR Tools](https://rr-tools.eu) (Angular)
-- [Pablo bot](https://t.me/rrpablobot) (Python telegram bot)
+- [pablo bot](https://t.me/rrpablobot) (Python telegram bot)
 - [Banana Spleet](https://github.com/pbl0/banana_spleet) (Python)
 - [Lambda-rr](https://pbl0.github.io/lambda-rr/) (Jekyll)
 - Likrr Votes (dead) (Python flask, selenium) 
