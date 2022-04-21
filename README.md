@@ -2,7 +2,7 @@
 
 ### Hobby projects
 - [My blog](https://www.pablob.eu/) (Next.js/React)
-- [RR Tools](https://rr-tools.eu) (Angular)
+- [RR Tools](https://rr-tools.eu) (Angular & [Android](https://play.google.com/store/apps/details?id=eu.rrtools.app))
 - [pablo bot](https://t.me/rrpablobot) (Python telegram bot)
 - [Banana Spleet](https://github.com/pbl0/banana_spleet) (Python)
 - [Lambda-rr](https://pbl0.github.io/lambda-rr/) (Jekyll)
