@@ -5,5 +5,6 @@
 - [pablo bot](https://t.me/rrpablobot) (Python telegram bot)
 - [My blog](https://www.pablob.eu/) (Next.js/React)
 - [Banana Spleet](https://github.com/pbl0/banana_spleet) (Python)
+- [Launchpad2KB](https://github.com/pbl0/Laundpad2KB) (Python)
 - [Lambda-rr](https://pbl0.github.io/lambda-rr/) (Jekyll)
 - Likrr Votes (dead) (Python flask, selenium) 
