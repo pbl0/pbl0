@@ -1,12 +1,12 @@
 <!-- Top Languages -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pbl0&hide=hack,tsql,php,swift,ruby&layout=compact&langs_count=8&theme=github_dark#gh-dark-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbl0&hide=hack,tsql,php,swift,ruby&layout=compact&langs_count=8&theme=default#gh-light-mode-only" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pbl0&hide=hack,tsql,php,swift,ruby&layout=compact&langs_count=8&theme=github_dark">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbl0&hide=hack,tsql,php,swift,ruby&layout=compact&langs_count=8&theme=default" />
 </picture>
 <!-- Stats -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pbl0&theme=github_dark&show_icons=true&count_private=true#gh-dark-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pbl0&theme=github_dark&show_icons=true&count_private=true#gh-light-mode-only" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pbl0&theme=github_dark&show_icons=true&count_private=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pbl0&theme=github_dark&show_icons=true&count_private=true" />
 </picture>
 
 * * *
