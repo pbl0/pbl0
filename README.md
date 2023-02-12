@@ -1,4 +1,4 @@
-# Hi, im pablo
+# Hi, I'm Pablo
 
 [More about me](https://www.pablob.eu/posts/me)
 
