@@ -5,15 +5,6 @@
   <img alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=pbl0&theme=github_dark&show_icons=true&count_private=true">
 </picture>
 
-
-# Hi, I'm pablo
-
-
-[More about me](https://www.pablob.eu/)
-
-
-
-
 * * *
 
 ## Hobby projects
