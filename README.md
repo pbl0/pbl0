@@ -1,4 +1,21 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbl0&hide=hack,tsql,php&layout=compact&langs_count=8&theme=algolia&exclude_repo=senku,segundamano,buscaminas,aplicacion-php)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Top Languages -->
+<!-- Dark mode -->
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbl0&hide=hack,tsql,php,swift,ruby&layout=compact&langs_count=8&theme=github_dark#gh-dark-mode-only" />
+</span>
+<!-- Light mode -->
+<span">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbl0&hide=hack,tsql,php,swift,ruby&layout=compact&langs_count=8&theme=default#gh-light-mode-only" />
+</span>
+<!-- Stats -->
+<!-- Dark mode -->
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pbl0&theme=github_dark&show_icons=true&count_private=true#gh-dark-mode-only" />
+</span>
+<!-- Light mode -->
+<span">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pbl0&show_icons&theme=default&count_private=true#gh-light-mode-only" />
+</span>
 
 ### Hobby projects
 - [RR Tools](https://rr-tools.eu) (Angular & [Android](https://play.google.com/store/apps/details?id=eu.rrtools.app))
