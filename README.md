@@ -17,7 +17,7 @@
 
 ## Hobby projects
 - [RR Tools](https://rr-tools.eu) (Angular & [Android](https://play.google.com/store/apps/details?id=eu.rrtools.app))
-- [pablo bot](https://t.me/rrpablobot) (Python telegram bot)
+- [@rrpablobot](https://t.me/rrpablobot) (Python telegram bot)
 - [My blog](https://www.pablob.eu/) (Next.js/React)
 - [Geoguessr telegram bot](https://www.pablob.eu/posts/geoguessr-random-bot) (Python)
 - [Banana Spleet](https://github.com/pbl0/banana_spleet) (Python)
