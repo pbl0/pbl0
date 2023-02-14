@@ -2,6 +2,7 @@
 
 [More about me](https://www.pablob.eu/posts/me)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y4HOO0V)
 
 ## My github stats
 
