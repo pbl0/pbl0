@@ -4,7 +4,7 @@
 
 ## Updates
 
-[<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/Telegram.svg" alt="Follow updates on Telegram" height="80">](https://t.me/pablob_channel)
+[<img src="https://raw.githubusercontent.com/pbl0/pbl0/main/images/Telegram.svg" alt="Follow updates on Telegram" height="80">](https://t.me/pablob_channel)
 
 ## Stats
 
